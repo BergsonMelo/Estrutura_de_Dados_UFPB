@@ -1,0 +1,1 @@
+Repositório para adicionar exercícios, projetos e atividades referentes à disciplina de Estrutura de Dados do curso Ciência de Dados e Inteligência Artificial da UFPB.
